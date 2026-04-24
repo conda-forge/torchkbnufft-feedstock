@@ -148,4 +148,5 @@ Feedstock Maintainers
 =====================
 
 * [@gabuzi](https://github.com/gabuzi/)
+* [@mmuckley](https://github.com/mmuckley/)
 
